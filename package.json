@@ -1,0 +1,19 @@
+{
+  "name": "dave",
+  "version": "1.0.0",
+  "description": "old spice",
+  "license": "ISC",
+  "author": "sya",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "inquirer": "^12.4.1",
+    "qr-image": "^3.2.0",
+    "sillyname": "^0.1.0",
+    "superheroes": "^4.0.0"
+  }
+}
